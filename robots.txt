@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://SoftwareMahasiswa.github.io/snippets-4m0f5i/sitemap.xml
